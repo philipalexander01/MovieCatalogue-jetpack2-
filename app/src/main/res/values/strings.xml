@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Movie Catalogue</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tab_movie">Movie</string>
+    <string name="tab_tv">TV Show</string>
+    <string name="url_img">https://image.tmdb.org/t/p/w500</string>
+    <string name="gambar">gambar</string>
+    <string name="back">back</string>
+    <string name="id">id</string>
+    <string name="type">type</string>
+    <string name="movie">movie</string>
+    <string name="tv">tv</string>
+    <string name="user_score">User Score</string>
+    <string name="you_don_t_have_internet_connection">You don\'t have Internet Connection</string>
+    <string name="retry">Retry</string>
+    <string name="data_not_exist">Data not exist</string>
+    <string name="image">image</string>
+</resources>
